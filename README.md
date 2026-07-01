@@ -14,6 +14,6 @@ Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón,
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/TU-USERNAME/TU-USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/TwoPythons/TwoPythons/output/github-contribution-grid-snake.svg)
 
 </div>
