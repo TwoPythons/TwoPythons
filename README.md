@@ -2,6 +2,8 @@
 
 <br/>
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E6FB8,100:4FB0E0&height=200&section=header&text=Tatiana&fontColor=FFD34D&fontSize=50&desc=Junior%20Frontend%20Developer&descAlignY=65&descColor=FF6F59)
+
 ![Ubicación](https://img.shields.io/badge/📍_Gijón-España-1E6FB8?style=for-the-badge&labelColor=0B1F3A)
 ![Estado](https://img.shields.io/badge/🔍_Buscando-Prácticas_/_Junior_Frontend-FF6F59?style=for-the-badge&labelColor=0B1F3A)
 ![Idiomas](https://img.shields.io/badge/🌍_RU_nativo_|_ES_fluido_|_EN_avanzado-FFD34D?style=for-the-badge&labelColor=0B1F3A&logoColor=0B1F3A)
