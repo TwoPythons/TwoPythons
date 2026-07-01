@@ -2,8 +2,6 @@ Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón,
 
 # 👋 ¡Hola! Soy Tatiana
 
-<br/>
-
 ### 🧠 Stack
 ![Stack](https://skillicons.dev/icons?i=html,css,js,angular,git)
 
