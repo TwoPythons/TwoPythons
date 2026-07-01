@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Tatiana
+Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón, Asturias 🌊 · [LinkedIn](www.linkedin.com/in/tatiana-tretiakova)
 
-Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón, Asturias 🌊 · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+# 👋 ¡Hola! Soy Tatiana
 
 <br/>
 
@@ -9,27 +9,15 @@ Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón,
 <td valign="top" width="50%">
 
 ### 🧠 Stack
-
-<img src="https://skillicons.dev/icons?i=html" height="18"/> HTML
-<br/>
-<img src="https://skillicons.dev/icons?i=css" height="18"/> CSS
-<br/>
-<img src="https://skillicons.dev/icons?i=js" height="18"/> JavaScript
-<br/>
-<img src="https://skillicons.dev/icons?i=angular" height="18"/> Angular
-<br/>
-<img src="https://skillicons.dev/icons?i=git" height="18"/> Git
+![Stack](https://skillicons.dev/icons?i=html,css,js,angular,git)
 
 </td>
 <td valign="top" width="50%">
 
 ### 🌍 Idiomas
-
-<img src="https://flagcdn.com/24x18/ru.png" height="14"/> Ruso — nativo
-<br/>
-<img src="https://flagcdn.com/24x18/es.png" height="14"/> Español — fluido
-<br/>
-<img src="https://flagcdn.com/24x18/gb.png" height="14"/> Inglés — avanzado
+![RU](https://img.shields.io/badge/RU-Nativo-1E6FB8?style=flat-square)
+![ES](https://img.shields.io/badge/ES-Fluido-FF6F59?style=flat-square)
+![EN](https://img.shields.io/badge/EN-Avanzado-FFD34D?style=flat-square)
 
 </td>
 </tr>
