@@ -1,4 +1,4 @@
-Junior Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón, Asturias 🌊 · [LinkedIn](www.linkedin.com/in/tatiana-tretiakova)
+Frontend Developer buscando **prácticas** en España 🇪🇸 · Gijón, Asturias 🌊 · [LinkedIn](www.linkedin.com/in/tatiana-tretiakova)
 
 # 👋 ¡Hola! Soy Tatiana
 
